@@ -1,7 +1,60 @@
-## Hi there 👋
-- 💻 I'm a young developer on C# and love gamedev on Unity
-- 🛠  I have a youtube channel, where i upload my tutorials
-- 🔗 Here's a link - https://www.youtube.com/@weekgamesdev
-- 🔭 I’m currently working on a new video
+<div align="center">
+
+  # Привет, я разработчик! 👋
   
-- And i love my best friends <3
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Game+Developer;Unity+%26+C%23+Enthusiast;Tech+Content+Creator)](https://git.io/typing-svg)
+
+  <p>
+    <a href="https://www.youtube.com/@weekgamesdev" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" />
+    </a>
+    <a href="https://t.me/ВАШ_ТЕЛЕГРАМ" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+### 🚀 Обо мне
+
+- 🎮 **GameDev:** Разрабатываю игры на **Unity** и пишу чистую архитектуру на **C#**.
+- 🎥 **YouTube:** Создаю туториалы и делюсь опытом на канале [**@weekgamesdev**](https://www.youtube.com/@weekgamesdev).
+- 🔭 **В процессе:** Работаю над новыми мультиплеерными и соло-проектами.
+- ⚡ **Цель:** Создавать захватывающие игровые миры и делиться знаниями с сообществом.
+
+---
+
+### 🛠 Стек & Инструменты
+
+<p align="left">
+  <!-- Движок и Языки -->
+  <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <!-- Базы данных и Инструменты -->
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+---
+
+### 📊 GitHub Статистика
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ВАШ_GITHUB_НИК&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_GITHUB_НИК&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ВАШ_GITHUB_НИК&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Сделано с любовью к геймдеву ☕</sub>
+</div>
