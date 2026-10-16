@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Добро пожаловать на профиль! 👋
+  # Добро пожаловать на мой профиль! 👋
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Game+Developer;Unity+%26+C%23;Content+Creator)](https://git.io/typing-svg)
 
