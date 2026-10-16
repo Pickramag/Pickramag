@@ -2,7 +2,7 @@
 
   # Привет, я разработчик! 👋
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Game+Developer;Unity+%26+C%23+Enthusiast;Tech+Content+Creator)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Game+Developer;Unity+%26+C%23;Content+Creator)](https://git.io/typing-svg)
 
   <p>
     <a href="https://www.youtube.com/@weekgamesdev" target="_blank">
@@ -46,7 +46,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pickramag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_GITHUB_НИК&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pickramag&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </div>
 
 <div align="center">
@@ -56,5 +56,5 @@
 ---
 
 <div align="center">
-  <sub>Сделано с любовью к путникам на моём профиле ☕</sub>
+  <sub>Кто прочитал тот гей ☕</sub>
 </div>
