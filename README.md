@@ -8,7 +8,7 @@
     <a href="https://www.youtube.com/@weekgamesdev" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" />
     </a>
-    <a href="https://t.me/ВАШ_ТЕЛЕГРАМ" target="_blank">
+    <a href="https://t.me/weekgamesdev" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
   </p>
@@ -45,16 +45,16 @@
 ### 📊 GitHub Статистика
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ВАШ_GITHUB_НИК&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pickramag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_GITHUB_НИК&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ВАШ_GITHUB_НИК&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pickramag&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>Сделано с любовью к геймдеву ☕</sub>
+  <sub>Сделано с любовью к путникам на моём профиле ☕</sub>
 </div>
