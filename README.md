@@ -21,8 +21,8 @@
 
 - 🎮 **GameDev:** Разрабатываю игры на **Unity** и пишу чистую архитектуру на **C#**.
 - 🎥 **YouTube:** Создаю туториалы и делюсь опытом на канале [**@weekgamesdev**](https://www.youtube.com/@weekgamesdev).
-- 🔭 **В процессе:** Работаю над новыми мультиплеерными и соло-проектами.
-- ⚡ **Цель:** Создавать захватывающие игровые миры и делиться знаниями с сообществом.
+- 🔭 **В процессе:** Работаю над новыми видео и проектами.
+- ⚡ **Цель:** Создавать что-то новое или красивое.
 
 ---
 
@@ -36,7 +36,6 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <!-- Базы данных и Инструменты -->
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
